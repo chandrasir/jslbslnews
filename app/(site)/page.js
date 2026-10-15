@@ -108,7 +108,7 @@ export default async function Home() {
               <span className="eyebrow">Contact</span>
               <h2 style={{ margin: '12px 0' }}>हामीसँग सम्पर्कमा रहनुहोस्</h2>
               <p style={{ color: '#d9f2e2', marginBottom: 20 }}>
-                कुनै जिज्ञासा वा गुनासो भए हाम्रो प्रधान कार्यालयमा सम्पर्क गर्न सक्नुहुनेछ।
+                कुनै जिज्ञासा वा गुनासो भए हाम्रो केन्द्रीय कार्यालयमा सम्पर्क गर्न सक्नुहुनेछ।
               </p>
               <a href={SITE.official + '/pages/contact'} target="_blank" rel="noopener noreferrer" className="btn btn-orange">
                 सम्पर्क पृष्ठ ↗

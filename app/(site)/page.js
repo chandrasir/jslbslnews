@@ -37,7 +37,7 @@ export default async function Home() {
           </div>
           <div className="hero-cards">
             <div className="stat"><b>१९</b><span>जिल्ला कार्यक्षेत्र</span></div>
-            <div className="stat"><b>३४००० </b><span>सदस्य संख्या span></div>
+            <div className="stat"><b>३४००० </b><span>सदस्य संख्या </span></div>
             <div className="stat"><b>१३००० </b><span>ऋणी सदस्य संख्या  </span></div>
             <div className="stat"><b>१७० </b><span>कर्मचारी संख्या  </span></div>
           </div>

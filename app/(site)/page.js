@@ -21,12 +21,12 @@ export default async function Home() {
       <section className="hero">
         <div className="container hero-grid">
           <div>
-            <span className="badge">🌿 नेपाल राष्ट्र बैंक इजाजतप्राप्त 'घ' वर्ग</span>
+            <span className="badge">🌿 नेपाल राष्ट्र बैंक इजाजतप्राप्त 'घ' वर्ग को इजाजत प्राप्त </span>
             <h1>
-              ग्रामीण समुदायको <em>आर्थिक उन्नति</em> तर्फ — हाम्रा ताजा समाचार
+              ग्स्वाधीन अर्थतन्त्रको लागि  <em>समावेशी वित्तीय प्रणालीको निर्माण </em> जनउत्थान सामुदायिक वित्तीय संस्था लि.
             </h1>
             <p className="lead">
-              {SITE.nameNp} का समाचार, सूचना तथा कार्यक्रमहरू एकै ठाउँमा। १९ जिल्लामा फैलिएको हाम्रो सेवा सञ्जाल।
+              {SITE.nameNp} का समाचार, सूचना तथा कार्यक्रमहरू एकै ठाउँमा। 
             </p>
             <div className="hero-actions">
               <Link href="/news" className="btn btn-orange">ताजा समाचार हेर्नुहोस्</Link>
@@ -37,9 +37,9 @@ export default async function Home() {
           </div>
           <div className="hero-cards">
             <div className="stat"><b>१९</b><span>जिल्ला कार्यक्षेत्र</span></div>
-            <div className="stat"><b>'घ'</b><span>वर्गको इजाजतपत्र</span></div>
-            <div className="stat"><b>४</b><span>मुख्य सेवा योजना</span></div>
-            <div className="stat"><b>NRB</b><span>द्वारा नियमन</span></div>
+            <div className="stat"><b>'३४००० '</b><span>सदस्य</span></div>
+            <div className="stat"><b>१३००० </b><span>ऋणी सदस्य </span></div>
+            <div className="stat"><b>१७० </b><span>कर्मचारी </span></div>
           </div>
         </div>
       </section>

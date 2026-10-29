@@ -5,7 +5,7 @@ Modern, responsive (mobile + desktop) news & notice website with a password‑pr
 
 - **Stack:** Next.js 14 (App Router) · Upstash Redis (storage) · plain CSS (green + orange theme)
 - **Public pages:** `/` (home) · `/news` (all, with category filter) · `/news/<id>` (article)
-- **Admin:** `/admin` — login, add / edit / delete news, upload a photo or paste an image link
+- **Admin:** `/admin` — login, add / edit / delete news, upload a photo or paste an image link this is best news
 
 ## Visitor submissions (with your approval)
 
